@@ -31,16 +31,6 @@
       "last 1 safari version"
     ]
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/patrickb42/react-american-football-scoreboard.git"
-  },
-  "author": "patrickb42",
-  "license": "UNLICENSED",
-  "bugs": {
-    "url": "https://github.com/patrickb42/react-american-football-scoreboard/issues"
-  },
-  "homepage": "https://github.com/patrickb42/react-american-football-scoreboard#readme",
   "devDependencies": {
     "@types/react": "^16.8.23",
     "@types/react-dom": "^16.8.4",
